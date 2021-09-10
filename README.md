@@ -13,13 +13,14 @@ This repo contains -
 
 You should have a running Kafka cluster
 
-In my case, I setup Kafka cluster with 3 brokers running in my local machine at below ports -\
+**Kafka cluster**
+In my case, I setup Kafka cluster with 3 brokers running in my local machine at below ports -
 
-localhost:9091
+http://localhost:9091
 
-localhost:9092
+http://localhost:9092
 
-localhost:9093
+http://localhost:9093
 
 You can clone this repo and check 
 Kafka producer, 
